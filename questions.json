@@ -1,0 +1,231 @@
+{
+  "heading": "Adjectives",
+  "topics": [
+    {
+      "heading": "Adjectives",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which word describes how something looks?",
+          "options": [
+            { "text": "Taste" },
+            { "text": "Sound" },
+            { "text": "Appearance" }
+          ],
+          "answer": 2,
+          "explanation": "Adjectives that describe how something looks are related to appearance. These words tell us about the visual characteristics of an object, person, or animal. For example, 'big,' 'round,' or 'blue' are adjectives that describe appearance."
+        },
+        {
+          "questionNo": 2,
+          "question": "Which word tells us about size?",
+          "options": [
+            { "text": "Happy" },
+            { "text": "Green" },
+            { "text": "Huge" }
+          ],
+          "answer": 2,
+          "explanation": "'Huge' is an adjective that describes size. It means very big or large."
+        },
+        {
+          "questionNo": 3,
+          "question": "The sky is _____ today.",
+          "options": [
+            { "text": "blue" },
+            { "text": "singing" },
+            { "text": "dancing" }
+          ],
+          "answer": 0,
+          "explanation": "'Blue' is an adjective that describes colour, which is a property the sky can have."
+        },
+        {
+          "questionNo": 4,
+          "question": "The _____ dog barked loudly.",
+          "options": [
+            { "text": "liquid" },
+            { "text": "big" },
+            { "text": "tasty" }
+          ],
+          "answer": 1,
+          "explanation": "'Big' is an appropriate adjective to describe a dog. It tells us about the dog's size."
+        },
+        {
+          "questionNo": 5,
+          "question": "Which word tells us about the weather?",
+          "options": [
+            { "text": "Cold" },
+            { "text": "Loud" },
+            { "text": "Sweet" }
+          ],
+          "answer": 0,
+          "explanation": "'Cold' is an adjective that describes the weather. It tells us that something has a low temperature."
+        },
+        {
+          "questionNo": 6,
+          "question": "The flower smells _____.",
+          "options": [
+            { "text": "blue" },
+            { "text": "soft" },
+            { "text": "sweet" }
+          ],
+          "answer": 2,
+          "explanation": "'Sweet' can describe a pleasant smell, which is appropriate for a flower."
+        },
+        {
+          "questionNo": 7,
+          "question": "Which word describes how something tastes?",
+          "options": [
+            { "text": "Loud" },
+            { "text": "Shiny" },
+            { "text": "Spicy" }
+          ],
+          "answer": 2,
+          "explanation": "'Spicy' is an adjective that describes a strong, hot taste. It's used to describe how something tastes."
+        },
+        {
+          "questionNo": 8,
+          "question": "The _____ music made me dance.",
+          "options": [
+            { "text": "happy" },
+            { "text": "green" },
+            { "text": "salty" }
+          ],
+          "answer": 0,
+          "explanation": "'Happy' can describe the mood or feeling of music, which could make someone want to dance."
+        },
+        {
+          "questionNo": 9,
+          "question": "Which word tells us about shape?",
+          "options": [
+            { "text": "Angry" },
+            { "text": "Loud" },
+            { "text": "Sweet" },
+            { "text": "Round" }
+          ],
+          "answer": 3,
+          "explanation": "'Round' is an adjective that describes a circular or spherical shape. 'Angry' describes an emotion, 'loud' describes sound volume, and 'sweet' describes taste."
+        },
+        {
+          "questionNo": 10,
+          "question": "The _____ car drove fast.",
+          "options": [
+            { "text": "red" },
+            { "text": "soft" },
+            { "text": "sour" }
+          ],
+          "answer": 0,
+          "explanation": "'Red' is a colour adjective that can describe a car."
+        },
+        {
+          "questionNo": 11,
+          "question": "Which word describes how something sounds?",
+          "options": [
+            { "text": "Bright" },
+            { "text": "Smooth" },
+            { "text": "Quiet" }
+          ],
+          "answer": 2,
+          "explanation": "'Quiet' is an adjective that describes sound, specifically the lack of loud noise."
+        },
+        {
+          "questionNo": 12,
+          "question": "The pizza tastes _____.",
+          "options": [
+            { "text": "blue" },
+            { "text": "loud" },
+            { "text": "delicious" }
+          ],
+          "answer": 2,
+          "explanation": "'Delicious' is an adjective that describes a very pleasant taste, which is appropriate for pizza."
+        },
+        {
+          "questionNo": 13,
+          "question": "The _____ kitten played with the ball. <br>  <img src='./assests/images/question/13.png' width='30%'/>",
+          "options": [
+            { "text": "square" },
+            { "text": "little" },
+            { "text": "salty" }
+          ],
+          "answer": 1,
+          "explanation": "'Little' is an appropriate adjective to describe a kitten, referring to its small size."
+        },
+        {
+          "questionNo": 14,
+          "question": "Which word tells us about speed?",
+          "options": [
+            { "text": "Red" },
+            { "text": "Tasty" },
+            { "text": "Fast" }
+          ],
+          "answer": 2,
+          "explanation": "'Fast' is an adjective that describes high speed."
+        },
+        {
+          "questionNo": 15,
+          "question": "Look at this image and choose the correct word: <br>  <img src='./assests/images/question/15.png' width='40%'/>",
+          "options": [
+            { "text": "Square" },
+            { "text": "Loud" },
+            { "text": "Happy" }
+          ],
+          "answer": 2,
+          "explanation": "'Happy' is an adjective that describes a positive emotion or feeling."
+        },
+        {
+          "questionNo": 16,
+          "question": "The _____ elephant walked slowly.",
+          "options": [
+            { "text": "tiny" },
+            { "text": "huge" },
+            { "text": "spicy" }
+          ],
+          "answer": 1,
+          "explanation": "'Huge' is an appropriate adjective to describe an elephant, referring to its large size."
+        },
+        {
+          "questionNo": 17,
+          "question": "The cake smells _____.",
+          "options": [
+            { "text": "blue" },
+            { "text": "soft" },
+            { "text": "delicious" }
+          ],
+          "answer": 2,
+          "explanation": "'Delicious' can describe a pleasant smell, which is appropriate for a cake. While we often use 'delicious' for taste, it can also apply to smell, especially for food."
+        },
+        {
+          "questionNo": 18,
+          "question": "Which word describes weight?",
+          "options": [
+            { "text": "Heavy" },
+            { "text": "Purple" },
+            { "text": "Noisy" }
+          ],
+          "answer": 0,
+          "explanation": "'Heavy' is an adjective that describes something with a lot of weight."
+        },
+        {
+          "questionNo": 19,
+          "question": "The _____ baby giggled happily.",
+          "options": [
+            { "text": "square" },
+            { "text": "salty" },
+            { "text": "cute" }
+          ],
+          "answer": 2,
+          "explanation": "'Cute' is an appropriate adjective to describe a baby, referring to its adorable or attractive appearance."
+        },
+        {
+          "questionNo": 20,
+          "question": "Choose the correct spelling: <br>  <img src='./assests/images/question/20.png' width='40%'/>",
+          "options": [
+            { "text": "Purple" },
+            { "text": "Purpal" },
+            { "text": "Pupel" }
+          ],
+          "answer": 0,
+          "explanation": "The correct spelling is 'P-U-R-P-L-E.' It is a type of colour."
+        }
+      ]
+    }
+  ]
+}
